@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Pau11996/telegram-post-generator-front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Pau11996/autoposting.git
